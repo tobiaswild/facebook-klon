@@ -1,0 +1,3 @@
+// admin
+// XkyKvR0lHop8lbm7
+// mongodb+srv://admin:XkyKvR0lHop8lbm7@cluster0.jrthp.mongodb.net/facebook-klon-DB?retryWrites=true&w=majority
